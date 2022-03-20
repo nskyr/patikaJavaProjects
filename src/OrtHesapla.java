@@ -42,7 +42,5 @@ public class OrtHesapla {
 
         System.out.println(sonuc);
 
-
-
     }
 }
